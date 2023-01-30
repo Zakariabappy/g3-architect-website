@@ -1,0 +1,213 @@
+/* menu style */
+
+.banner{
+    width: 1950px;
+    height: 1350px;
+    background-color: rgba(255, 144, 14, 0.1);
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.menu-title{
+    font-size: 45px;
+}
+.nav{
+    display: flex;
+    gap: 40px;
+}
+.banner-intro{
+    width: 825px;
+    height: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.banner-title{
+    font-size: 64px;
+    font-weight: 700;
+}
+.description{
+    color: #727272;
+}
+.btn{
+    width: 180px;
+    height: 64px;
+    color: #FFFFFF;
+    background-color: darkgoldenrod;
+}
+.banner-img{
+    margin-top: 50px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+/* team & features style */
+
+.team{
+    margin-top: 85px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    align-items: center;
+}
+.features{
+    width: 530px;
+    height: 300px;
+}
+.features-title{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+#q{
+    color: #727272;
+}
+#o{
+    color: #131313;
+}
+#f{
+    color: #FF900E;
+}
+.btn{
+    color: #FFFFFF;
+    font-size: 20px;
+    background-color: #FF900E;
+    padding: 20px 25px;
+}
+
+/* offer style */
+
+.offer{
+    display: flex;
+    gap: 50px;
+    margin-top: 130px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.offer-container{
+    width: 586px;
+    height: 982px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.offer-title-1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.offer-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.experience{
+    width: 342px;
+    height: 200px;
+    padding: 40px;
+    font-size: 65px;
+    font-weight: 700;
+    background-color: #FF900E;
+    text-align: center;
+}
+
+/* some-facts style */
+
+.some-facts{
+    margin-left: 240px;
+}
+.facts-description{
+    width: 542px;
+    height: 58px;
+}
+.facts{
+    margin-top: 100px;
+    margin-left: 240px;
+    margin-right: 240px;
+    display: flex;
+    gap: 100px;
+}
+.facts-box{
+    width: 242px;
+    height: 242px;
+    border: 2px solid #FF900E;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 45px 35px;
+}
+.number{
+    font-size: 45px;
+}
+
+/* contact style */
+
+.contact-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    margin-right: 240px;
+    margin-bottom: 100px;
+}
+.contact-title{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    color: blue;
+}
+.text{
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    border: 2px solid;
+}
+.email{
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    border: 2px solid;
+}
+.phone{
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border: 2px solid;
+}
+
+/* sponsor style */
+
+.sponsor{
+    width: 542px;
+    height: 229px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.sponsor-title{
+    font-size: 45px;
+    font-weight: 700;
+}
+.sponsor-icon{
+    margin-left: 240px;
+    margin-right: 240px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    font-size: 20px;
+    font-weight: 400;
+    color: #424242;
+    width: 1440px;
+    height: 100px;
+    background-color: #FFF4E7;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 130px auto;
+}
+
+This app has made everything easier for me to understand. I like the complier and editor built into the app, which can also publish to GitHub and the fun learning style. Both are important to internalize the info. It filled in gaps for me and that is good enough.
